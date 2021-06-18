@@ -52,7 +52,7 @@ file1 = open(completeName, "w")
 file1.write(name + "\n\n" + belief)
 file1.close()
 
-import index
+
 
 
 
