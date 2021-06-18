@@ -2,7 +2,7 @@ import os
 import sys
 from time import sleep
 
-save_path = '//mcrcma-bsffl02/Students/Students/18$/12LQ01/!python/!question answer'
+save_path = 'PUT FILEPATH HERE'
 
 
 
